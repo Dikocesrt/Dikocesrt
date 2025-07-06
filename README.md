@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a fresh graduate from Ahmad Dahlan University, Yogyakarta, with a strong foundation in both technical and theoretical aspects of information technology. During my studies, I served as a teaching assistant for various courses for over two years, mentoring and facilitating the learning process of more than 200 students. I have also participated in the Kampus Merdeka internship program at two different institutions: Bangkit Academy as a Cloud Engineer and Alterra Academy as a Backend Engineer, for a total of one year.<br>In addition, I possess experience as a freelance fullstack developer, where I developed web-based and mobile information systems for clients. Some notable projects I have worked on include a printing service website, an image gallery website, a livestock management system, and a car rental website. I have also worked under contract as a Junior Backend Developer at PT Rumbia Indonesia for three months, further strengthening my experience in backend development within a professional environment.<br>Through these academic, internship, contract, and freelance experiences, I have honed my skills in backend and fullstack development, as well as strengthened my communication and mentoring abilities.
+👋 Hi, I’m Dikocesrt – a fresh graduate from Ahmad Dahlan University, Yogyakarta, with a strong foundation in information technology.  
+🚀 I have hands-on experience as a teaching assistant, mentoring 200+ students, and have interned at Bangkit Academy (Cloud Engineer) and Alterra Academy (Backend Engineer).  
+💼 I’ve worked as a freelance fullstack developer and as a Junior Backend Developer at PT Rumbia Indonesia, building various web and mobile solutions for clients.  
+🌟 Passionate about backend, cloud, and fullstack development, I enjoy turning ideas into impactful digital products and sharing knowledge with others.
 
 
 ## 🌐 Socials:
